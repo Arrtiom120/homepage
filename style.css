@@ -1,0 +1,59 @@
+html{
+    box-sizing: border-box;
+}
+*,
+::after,
+::before {
+    box-sizing: inherit;
+}
+
+.container {
+    padding: 10px;
+    background-color: #ddd;
+    max-width: 1000px;
+    margin: 10px auto;
+    font-family: "Lato", sans-serif;
+
+}
+
+.tableContainer {
+    overflow-x: auto;
+}
+
+.banner {
+    width: 10px;
+    height: 10px;
+}
+
+.main {
+    margin: 20px 0;
+}
+
+.boldBaner {
+    font-weight: 900;
+    font-size: 30px;
+    margin: 100px 0 30px;
+}
+
+.button {
+    color: white;
+    background-color: crimson;
+    text-decoration: none;
+    padding: 5px 10px;
+    font-size: 20px;
+}
+
+.photoSize {
+    width: 100%;
+    height: 200px;
+    margin: 100px 0 100px;
+}
+
+.banner {
+    width: 100%;
+    height: 100%;
+}
+
+ul {
+    list-style-type: none;
+  }

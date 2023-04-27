@@ -1,0 +1,18 @@
+.navigation {
+    list-style: none;
+    text-align: center;
+    margin: 50px 0;
+}
+
+.navigation__item {
+    display: inline;
+    line-height: 2;
+}
+
+.navigation__button {
+    color: white;
+    background-color: crimson;
+    text-decoration: none;
+    padding: 5px 10px;
+    font-size: 20px;
+}

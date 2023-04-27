@@ -1,0 +1,19 @@
+.footer {
+    border: 2px outset crimson;
+    text-align: center;
+    margin: 20px 0;
+    padding: 20px;
+    font-size: 18px;
+
+}
+
+.footer__link {
+    color: crimson;
+    text-decoration: none;
+    padding: 20px 0;
+    line-height: 2;
+}
+
+.footer__link:hover {
+    color: black;
+}
